@@ -1,0 +1,13 @@
+.alert {
+    position: relative;
+    padding: 2px;
+    margin-bottom: 0;
+    border: 0;
+    border-radius: 0;
+}
+.alert-danger {
+    color: #ff1e33;
+    background-color: #fff!important;
+    border-color: #fff!important;
+}
+
