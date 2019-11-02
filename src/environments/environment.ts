@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyDVZoEflqPs4J6FywLKB3_NqzNV_jS2l6c",
-    authDomain: "doexam-c317e.firebaseapp.com",
-    databaseURL: "https://doexam-c317e.firebaseio.com",
-    projectId: "doexam-c317e",
-    storageBucket: "doexam-c317e.appspot.com",
-    messagingSenderId: "431152206608",
-    appId: "1:431152206608:web:26bd1e4cf476a0ac064b95"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   }
 };
 
